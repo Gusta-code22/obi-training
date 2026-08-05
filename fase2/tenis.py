@@ -2,7 +2,7 @@
 # Problema: Diferença entre Times
 # Origem: OBI - Treino
 # Status: Resolvido sozinho após estudar a ideia
-# Tempo: 25 minutos
+# Tempo: 15 minutos
 # Dificuldade pessoal: 6/10
 # Aprendi:
 # - Que existem apenas 3 combinações possíveis de duplas.
